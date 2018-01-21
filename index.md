@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- css -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/ionicons.min.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.css">
-	<link rel="stylesheet" href="assets/css/owl.theme.css">
-	<link rel="stylesheet" href="assets/css/animate.css">
-	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="bootstrap.min.css">
+	<link rel="stylesheet" href="ionicons.min.css">
+	<link rel="stylesheet" href="owl.carousel.css">
+	<link rel="stylesheet" href="owl.theme.css">
+	<link rel="stylesheet" href="animate.css">
+	<link rel="stylesheet" href="style.css">
 
 	<!-- fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:300italic,400italic,700italic,400,300,700|Oxygen:400,300,700' rel='stylesheet'>
@@ -86,7 +86,7 @@
 				</div>
 				<div class="col-md-6 hidden-xs hidden-sm">
 					<div class="hand-container">
-					<img class="iphone-hand img_res wow animated bounceInUp" data-wow-duration="1.2s" src="assets/img/iphone_hand.png"></img>
+					<img class="iphone-hand img_res wow animated bounceInUp" data-wow-duration="1.2s" src="iphone_hand.png"></img>
 					<div class="clearfix"></div>
 					</div>
 				</div>
@@ -172,16 +172,16 @@
 			<section class="row">
 				<div class="col-xs-12">
 					<div id="screenshots" class="owl-carousel owl-theme">
-					  <div class="item"><img src="assets/img/screenshot-1.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-2.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-3.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-4.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-5.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-6.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-7.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-3.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-5.png" class="img_res wow animated zoomIn"></div>
-					  <div class="item"><img src="assets/img/screenshot-1.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-1.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-2.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-3.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-4.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-5.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-6.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-7.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-3.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-5.png" class="img_res wow animated zoomIn"></div>
+					  <div class="item"><img src="screenshot-1.png" class="img_res wow animated zoomIn"></div>
 					</div>
 					 <div class="customNavigation">
 					  <a class="btn prev gallery-nav wow animated bounceInLeft"><i class="ion-ios-arrow-left"></i></a> 
@@ -212,7 +212,7 @@
 			<section class="row">
 				<section class="col-md-3 col-sm-6">
 					<div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-						<img src="assets/img/dev-1.jpg" class="img_res team-pic">
+						<img src="dev-1.jpg" class="img_res team-pic">
 						<h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
 						<p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -226,7 +226,7 @@
 				</section>
 				<section class="col-md-3 col-sm-6">
 					<div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-						<img src="assets/img/dev-2.jpg" class="img_res team-pic">
+						<img src="dev-2.jpg" class="img_res team-pic">
 						<h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
 						<p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -240,7 +240,7 @@
 				</section>
 				<section class="col-md-3 col-sm-6">
 					<div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-						<img src="assets/img/dev-3.jpg" class="img_res team-pic">
+						<img src="img/dev-3.jpg" class="img_res team-pic">
 						<h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
 						<p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -254,7 +254,7 @@
 				</section>
 				<section class="col-md-3 col-sm-6">
 					<div class="team-member wow animated fadeIn" data-wow-delay=="0.3s">
-						<img src="assets/img/dev-4.jpg" class="img_res team-pic">
+						<img src="dev-4.jpg" class="img_res team-pic">
 						<h2 class="wow animated fadeInDown" data-wow-delay=="0.7s">Rubel Saheb</h2>
 						<p class="wow animated fadeIn" data-wow-delay=="0.7s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.</p>
@@ -291,7 +291,7 @@
 						<div class="item">
 							<div class="row">
 								<div class="col-sm-4 col-sm-offset-1">
-									<div class="client-pic"><img class="img_res" src="assets/img/client-one.png"></div>
+									<div class="client-pic"><img class="img_res" src="client-one.png"></div>
 									<p class="review-star">
 										<i class="ion-ios-star"></i>
 										<i class="ion-ios-star"></i>
@@ -315,7 +315,7 @@
 						<div class="item">
 							<div class="row">
 								<div class="col-sm-4 col-sm-offset-1">
-									<div class="client-pic"><img class="img_res" src="assets/img/client-one.png"></div>
+									<div class="client-pic"><img class="img_res" src="client-one.png"></div>
 									<p class="review-star">
 										<i class="ion-ios-star"></i>
 										<i class="ion-ios-star"></i>
@@ -339,7 +339,7 @@
 						<div class="item">
 							<div class="row">
 								<div class="col-sm-4 col-sm-offset-1">
-									<div class="client-pic"><img class="img_res" src="assets/img/client-one.png"></div>
+									<div class="client-pic"><img class="img_res" src="client-one.png"></div>
 									<p class="review-star">
 										<i class="ion-ios-star"></i>
 										<i class="ion-ios-star"></i>
@@ -363,7 +363,7 @@
 						<div class="item">
 							<div class="row">
 								<div class="col-sm-4 col-sm-offset-1">
-									<div class="client-pic"><img class="img_res" src="assets/img/client-one.png"></div> 
+									<div class="client-pic"><img class="img_res" src="client-one.png"></div> 
 									<p class="review-star">
 										<i class="ion-ios-star"></i>
 										<i class="ion-ios-star"></i>
@@ -510,11 +510,11 @@
 
 	<!-- All the scripts -->
 
-	<script src="assets/js/jquery-2.1.3.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/wow.min.js"></script>
-	<script src="assets/js/owl.carousel.js"></script>
-	<script src="assets/js/script.js"></script>
+	<script src="jquery-2.1.3.min.js"></script>
+	<script src="bootstrap.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="owl.carousel.js"></script>
+	<script src="script.js"></script>
 	
 </body>
 </html>
