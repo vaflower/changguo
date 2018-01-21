@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>P O L O - Showcase Your App</title>
+	<!-- <title>P O L O - Showcase Your App</title> -->
 
 	<!-- meta -->
 	<meta charset="utf-8">
