@@ -9,12 +9,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- css -->
-	<link rel="stylesheet" href="bootstrap.min.css">
-	<link rel="stylesheet" href="ionicons.min.css">
-	<link rel="stylesheet" href="owl.carousel.css">
-	<link rel="stylesheet" href="owl.theme.css">
-	<link rel="stylesheet" href="animate.css">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/bootstrap.min.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/ionicons.min.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/owl.carousel.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/owl.theme.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/animate.css">
+	<link rel="stylesheet" href="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/style.css">
 
 	<!-- fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:300italic,400italic,700italic,400,300,700|Oxygen:400,300,700' rel='stylesheet'>
@@ -510,11 +510,11 @@
 
 	<!-- All the scripts -->
 
-	<script src="jquery-2.1.3.min.js"></script>
-	<script src="bootstrap.min.js"></script>
-	<script src="js/wow.min.js"></script>
-	<script src="owl.carousel.js"></script>
-	<script src="script.js"></script>
+	<script src="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/jquery-2.1.3.min.js"></script>
+	<script src="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/bootstrap.min.js"></script>
+	<script src="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/js/wow.min.js"></script>
+	<script src="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/owl.carousel.js"></script>
+	<script src="https://raw.githubusercontent.com/vaflower/myonline_webproject/master/script.js"></script>
 	
 </body>
 </html>
